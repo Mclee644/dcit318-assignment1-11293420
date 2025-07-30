@@ -5,9 +5,9 @@ class Program{
 	{
 		string prompt = $"""
 
-		******************
-		GRADE CALCULATOR
-		******************
+		***********************
+			GRADE CALCULATOR
+		***********************
 
 		""";
 		string terminalPrompt ;
@@ -31,14 +31,14 @@ class Program{
 		}
 
 		//INPUT
-		void Input(){
+		void InputLogic(){
 			try{
 				Console.WriteLine("Enter your exam score: ");
 				score = Convert.ToInt32(Console.ReadLine());
 			}catch(Exception e){
 				Console.WriteLine($"{e.Message}... INPUT is required!");
 				errorMessage = e.Message;
-				Input();
+				InputLogic();
 			}
 
 		}
@@ -66,7 +66,7 @@ class Program{
 		//MAIN PROGRAM
 		do{
 		Console.WriteLine(prompt);	
-		Input();
+		InputLogic();
 
 		//decision block
 		
