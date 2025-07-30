@@ -11,12 +11,12 @@ class Program{
 
 		""";
 		string terminalPrompt ;
-		int score = 0;
+		int score;
 		string grade = "N/A";
 		string results ;
 		string errorMessage;
 		bool terminalCondition = true;
-		
+
 		//KILL SWITCH
 		void Terminal(){
 			Console.WriteLine("Do you want exit the program: Y/N");
