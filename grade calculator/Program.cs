@@ -3,14 +3,14 @@
 class Program{
 	static void Main(string[] args)
 	{
-		string prompt = """
+		string prompt = $"""
 
 		******************
 		GRADE CALCULATOR
 		******************
 
 		""";
-		string terminalPrompt ="N";
+		string terminalPrompt ;
 		int score = 0;
 		string grade = "N/A";
 		string results ;
@@ -38,7 +38,7 @@ class Program{
 		else if(score >= 60 && score <=69){
 			grade = "D";
 		}
-		else if(score < 60){
+		else if(score >=0 && score < 60 ){
 			grade = "F";
 		}else {
 			Console.WriteLine($"{score}!!!  cross-check the score you entered it is out of range (NB: 0 - 100).");
@@ -51,25 +51,9 @@ class Program{
 		Input();
 
 		//decision block
-		/*
-		switch(score){
-			case <= 90:
-				grade = "A" ;
-				break;
-			case <= 69:
-				grade = "D";
-			case <60 :
-				grade = "F";
-				break;
-			default:
-				Console.WriteLine($"{score}... oh how");
-				break;
-		}*/
-
+		
 		GradeChecker(score);
 		
-		
-
 		results = @$"""
 
 		---------------------+
