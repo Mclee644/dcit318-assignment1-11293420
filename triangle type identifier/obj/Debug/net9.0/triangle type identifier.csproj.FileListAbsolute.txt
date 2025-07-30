@@ -1,0 +1,15 @@
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\bin\Debug\net9.0\triangle type identifier.exe
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\bin\Debug\net9.0\triangle type identifier.deps.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\bin\Debug\net9.0\triangle type identifier.runtimeconfig.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\bin\Debug\net9.0\triangle type identifier.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\bin\Debug\net9.0\triangle type identifier.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.sourcelink.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\refint\triangle type identifier.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\triangle type identifier.genruntimeconfig.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\triangle type identifier\obj\Debug\net9.0\ref\triangle type identifier.dll
