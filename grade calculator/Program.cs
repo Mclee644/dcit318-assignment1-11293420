@@ -15,11 +15,17 @@ class Program{
 		string grade = "N/A";
 		string results ;
 		string errorMessage;
+		bool terminalCondition = true;
+		
 		//KILL SWITCH
 		void Terminal(){
 			Console.WriteLine("Do you want exit the program: Y/N");
-			terminalPrompt = Console.ReadLine().ToUpper();		
+			terminalPrompt = Console.ReadLine().ToUpper();	
+			if(terminalPrompt == "Y"){
+				terminalCondition = false;
+			}
 		}
+
 		//INPUT
 		void Input(){
 			try{
@@ -73,6 +79,6 @@ class Program{
 		""";
 		Console.WriteLine(results);
 		Terminal();
-		}while(terminalPrompt != "Y");
+		}while(terminalCondition);
 	}
 }
