@@ -23,6 +23,10 @@ class Program{
 			terminalPrompt = Console.ReadLine().ToUpper();	
 			if(terminalPrompt == "Y"){
 				terminalCondition = false;
+			}else if(terminalPrompt == "N"){
+				terminalCondition = true;
+			}else{
+				Terminal();
 			}
 		}
 
