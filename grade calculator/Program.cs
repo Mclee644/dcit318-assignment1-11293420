@@ -14,6 +14,7 @@ class Program{
 		int score = 0;
 		string grade = "N/A";
 		string results ;
+		string errorMessage;
 		//KILL SWITCH
 		void Terminal(){
 			Console.WriteLine("Do you want exit the program: Y/N");
@@ -21,8 +22,15 @@ class Program{
 		}
 		//INPUT
 		void Input(){
-			Console.WriteLine("Enter your exam score: ");
-			score = Convert.ToInt32(Console.ReadLine());
+			try{
+				Console.WriteLine("Enter your exam score: ");
+				score = Convert.ToInt32(Console.ReadLine());
+			}catch(Exception e){
+				Console.WriteLine($"{e.Message}... INPUT is required!");
+				errorMessage = e.Message;
+				Input();
+			}
+
 		}
 
 		string GradeChecker(int scoreX){
