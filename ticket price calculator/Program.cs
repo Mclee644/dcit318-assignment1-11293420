@@ -14,19 +14,19 @@ class Program{
 		string prompt;
 		int standardPrice = 10;
 		int ticketPrice;
-		int discount = 7;
+		int discountedPrice = 7;
 		int age;
-		int netPrice = standardPrice - discount; 
+		
 
 		do{
 			Console.WriteLine(title);
 			Input();
 			switch(age){
 				case >= 65:
-					ticketPrice = netPrice;
+					ticketPrice = discountedPrice;
 					break;
 				case <= 12:
-					ticketPrice = netPrice;
+					ticketPrice = discountedPrice;
 					break;
 				default:
 					ticketPrice = standardPrice;
@@ -45,8 +45,14 @@ class Program{
 		}while(terminalCondition);
 
 		void Input(){
-			Console.WriteLine("Enter Your Age In Complete Years: ");
-			age = Convert.ToInt32(Console.ReadLine());
+			try{
+				Console.WriteLine("Enter Your Age In Complete Years: ");
+				age = Convert.ToInt32(Console.ReadLine());
+			}
+			catch(Exception e){
+				Console.WriteLine($"{e.Message}... INPUT is Required!");
+				Input();
+			}
 		}
 		
 		void Terminal(){
