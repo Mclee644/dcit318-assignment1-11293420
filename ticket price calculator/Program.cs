@@ -20,7 +20,7 @@ class Program{
 
 		do{
 			Console.WriteLine(title);
-			Input();
+			InputLogic();
 			switch(age){
 				case >= 65:
 					ticketPrice = discountedPrice;
@@ -44,14 +44,14 @@ class Program{
 			Terminal();
 		}while(terminalCondition);
 
-		void Input(){
+		void InputLogic(){
 			try{
 				Console.WriteLine("Enter Your Age In Complete Years: ");
 				age = Convert.ToInt32(Console.ReadLine());
 			}
 			catch(Exception e){
 				Console.WriteLine($"{e.Message}... INPUT is Required!");
-				Input();
+				InputLogic();
 			}
 		}
 		
