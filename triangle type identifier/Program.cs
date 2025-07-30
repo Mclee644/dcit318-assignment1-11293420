@@ -23,8 +23,7 @@ class Program{
 			}
 			catch(Exception e){
 				Console.WriteLine($"{e.Message}... INPUT is Required");
-				InputLogic(inputPrompt);
-				return 0;
+				return InputLogic(inputPrompt);
 			}
 			
 		}
@@ -46,7 +45,7 @@ class Program{
 			sideAC = InputLogic("Enter the length of side |AC| :");
 			checker = InferenceEngine(sideAB, sideBC, sideAC);
 			results = $"""
-			
+
 			+--------------------------+
 				TRIANGLE TYPE
 			+--------------------------+
