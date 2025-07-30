@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\grade calculator\\grade calculator.csproj": {}
+    "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\ticket price calculator\\ticket price calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\grade calculator\\grade calculator.csproj": {
+    "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\ticket price calculator\\ticket price calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\grade calculator\\grade calculator.csproj",
-        "projectName": "grade calculator",
-        "projectPath": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\grade calculator\\grade calculator.csproj",
+        "projectUniqueName": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\ticket price calculator\\ticket price calculator.csproj",
+        "projectName": "ticket price calculator",
+        "projectPath": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\ticket price calculator\\ticket price calculator.csproj",
         "packagesPath": "C:\\Users\\mclee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\grade calculator\\obj\\",
+        "outputPath": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment1-11293420\\ticket price calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,11 @@ C:\Users\mclee\Documents\cSharp\assignment1\grade calculator\obj\Debug\net9.0\re
 C:\Users\mclee\Documents\cSharp\assignment1\grade calculator\obj\Debug\net9.0\grade calculator.pdb
 C:\Users\mclee\Documents\cSharp\assignment1\grade calculator\obj\Debug\net9.0\grade calculator.genruntimeconfig.cache
 C:\Users\mclee\Documents\cSharp\assignment1\grade calculator\obj\Debug\net9.0\ref\grade calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.sourcelink.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\refint\grade calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\grade calculator\obj\Debug\net9.0\grade calculator.pdb

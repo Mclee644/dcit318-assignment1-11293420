@@ -1,0 +1,15 @@
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\bin\Debug\net9.0\ticket price calculator.exe
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\bin\Debug\net9.0\ticket price calculator.deps.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\bin\Debug\net9.0\ticket price calculator.runtimeconfig.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\bin\Debug\net9.0\ticket price calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\bin\Debug\net9.0\ticket price calculator.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.sourcelink.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\refint\ticket price calculator.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ticket price calculator.genruntimeconfig.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment1-11293420\ticket price calculator\obj\Debug\net9.0\ref\ticket price calculator.dll
